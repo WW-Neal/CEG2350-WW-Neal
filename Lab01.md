@@ -13,17 +13,25 @@
 
 ## Part 2 Answers
 
-1.
+1. cd DirA
+   touch text.txt
 2. File contents:
+   vim test.txt
+   i
+   -insert text -
+    press 'esc'
+    :wq
 
 ```
-**file contents here**
+This is
+three lines
+of text
 ```
 
 ## Part 3 Answers
 
-1.
-2.
+1. cp text.txt .hiddentext.txt
+2. ls
 
 ## Part 4 Answers
 
