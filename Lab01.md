@@ -47,3 +47,4 @@ ssh -i /home/wwneal/labsuser.pem ubuntu@54.80.243.235
 
 ```
 
+git clone https://github.com/WW-Neal/CEG2350-WW-Neal/blob/main/Lab01.md
