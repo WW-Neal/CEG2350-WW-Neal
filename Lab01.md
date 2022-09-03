@@ -38,7 +38,7 @@ of text
 1. SSH command to sign in to your AWS instance:
 
 ```
-**write command here so it will look fancy on GitHub**
+ssh -i /home/wwneal/labsuser.pem ubuntu@54.80.243.235
 ```
 
 ## Part 5 Answers
