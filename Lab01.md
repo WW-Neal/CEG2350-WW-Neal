@@ -31,7 +31,7 @@ of text
 ## Part 3 Answers
 
 1. cp text.txt .hiddentext.txt
-2. ls
+2. ls -a
 
 ## Part 4 Answers
 
@@ -46,4 +46,4 @@ ssh -i /home/wwneal/labsuser.pem ubuntu@54.80.243.235
 1. Command to clone your GitHub repository:
 
 ```
-**write command here so it will look fancy on GitHub**
+
